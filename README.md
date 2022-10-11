@@ -7,8 +7,9 @@ I've done MySQL as a database language and also did Basic Python in my introduct
 - 📫 Reach me these platforms :
 - Email - sheikhasifali@outlook.com
 - Alt Email - awesomeasif6@gmail.com 
-- LeetCode - @sheikhasifali
-- HackerRank - @sheikhasifali
+- LinkedIn - linkedin.com/in/sheikh-asif-ali
+- LeetCode - leetcode.com/sheikhasifali/
+- HackerRank - hackerrank.com/sheikhasifali
 - Instagram - @_sheikhasif_ 
 
 <!---
