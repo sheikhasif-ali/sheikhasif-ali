@@ -7,10 +7,10 @@ I've done MySQL as a database language and also did Basic Python in my introduct
 - 📫 Reach me these platforms :
 - Email - sheikhasifali@outlook.com
 - Alt Email - awesomeasif6@gmail.com 
-- LinkedIn - linkedin.com/in/sheikh-asif-ali
+- LinkedIn - https://www.linkedin.com/in/sheikh-asif-ali
 - LeetCode - https://leetcode.com/sheikhasifali
 - HackerRank - https://www.hackerrank.com/sheikhasifali
-- Instagram - @_sheikhasif_ 
+- Instagram - https://www.instagram.com/_sheikhasif_
 
 <!---
 awesomeasif/awesomeasif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
