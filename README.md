@@ -8,8 +8,8 @@ I've done MySQL as a database language and also did Basic Python in my introduct
 - Email - sheikhasifali@outlook.com
 - Alt Email - awesomeasif6@gmail.com 
 - LinkedIn - linkedin.com/in/sheikh-asif-ali
-- LeetCode - leetcode.com/sheikhasifali/
-- HackerRank - hackerrank.com/sheikhasifali
+- LeetCode - https://leetcode.com/sheikhasifali
+- HackerRank - https://www.hackerrank.com/sheikhasifali
 - Instagram - @_sheikhasif_ 
 
 <!---
