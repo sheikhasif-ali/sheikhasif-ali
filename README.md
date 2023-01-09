@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @awesomeasif
-- 👀 I’m interested in learning the different types of programming languages and try to build piece of softwares which help people and corporates alike.
-- 🌱 I’m currently learning Data Structures using C. 
-- I've made basic static websites using HTML, CSS and JavaScript.
-I've done MySQL as a database language and also did Basic Python in my introductory class. I also have experience in C++ and was introduced to OOP through it, but still but haven't made something i like yet!
+- 👀 I’m interested in developing piece of software and applications which help people and corporates alike. 
+🌱 I’m currently learning Java, and want to do Android Development.
+-> I've made basic static websites using HTML, CSS and JavaScript.
+-> I also have experience in C and C++ and have done Data Structures and algorithm using them.
+-> I've done Python and MySQL and learnt how to access SQL tables and modify them using python.
 - 💞️ Have an Idea but need someone to collab with? Feel free to contact me for collaborating on projects.
 - 📫 Reach me these platforms :
 - Email - sheikhasifali@outlook.com
