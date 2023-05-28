@@ -11,7 +11,7 @@
 - LinkedIn - https://www.linkedin.com/in/sheikh-asif-ali
 - LeetCode - https://leetcode.com/sheikhasifali
 - HackerRank - https://www.hackerrank.com/sheikhasifali
-- Instagram - https://www.instagram.com/_sheikhasif_/
+
 
 <!---
 awesomeasif/awesomeasif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
