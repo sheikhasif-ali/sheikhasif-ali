@@ -1,16 +1,17 @@
-- 👋 Hi, I’m @awesomeasif
-- 👀 I’m interested in developing piece of software and applications which help people and corporates alike. 
-🌱 I’m currently learning Java, and want to do Android Development.
--> I've made basic static websites using HTML, CSS and JavaScript.
--> I also have experience in C and C++ and have done Data Structures and algorithm using them.
--> I've done Python and MySQL and learnt how to access SQL tables and modify them using python.
-- 💞️ Have an Idea but need someone to collab with? Feel free to contact me for collaborating on projects.
+Passionate Android Developer crafting user-friendly, impactful apps with Java and Kotlin.
+
+Eager to create innovative mobile experiences that enhance people's lives and solve real-world problems.
+
+I've created multiple apps which are showcased on my portfolio https://sheikhasif-ali.github.io/
+
+Currently seeking opportunities as a fresher/intern to contribute to innovative Android projects.
+
+Always open to learning and growth!
+
 - 📫 Reach me these platforms :
 - Email - sheikhasifali@outlook.com
-- Alt Email - awesomeasif6@gmail.com 
 - LinkedIn - https://www.linkedin.com/in/sheikh-asif-ali
-- LeetCode - https://leetcode.com/sheikhasifali
-- HackerRank - https://www.hackerrank.com/sheikhasifali
+
 
 
 <!---
