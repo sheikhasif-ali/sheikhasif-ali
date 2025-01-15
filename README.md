@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sheikh Asif and I'm a Android Developer, from India.</p>
+<p align="left">My name is Sheikh Asif and I'm a Software Developer specializing in Mobile Developement.</p>
 
 ###
 
@@ -10,7 +10,20 @@
 
 ###
 
-<p align="left">✨ Programming tickles my brain in a funny way.<br>📚 I'm currently learning Kotlin so i can make better Android Apps and Backend Development because that's is interesting.</p>
+<p align="left">
+
+I am a passionate and skilled Mobile Developer specializing in Native Android Development with Kotlin and Java, as well as Cross-Platform Development using the Flutter framework. My experience includes working with a startup as a Native Android Developer, where I contributed to diverse app projects, including those in healthcare, job aggregation, and applications for students under AICTE across India.
+
+As a self-taught developer, I bring a relentless drive to create innovative, user-focused applications. I have honed my expertise across all stages of mobile app development—from conceptual design and coding to deployment and maintenance—ensuring each app is high-performing, visually appealing, and delivers an exceptional user experience.
+Let’s Build Something Amazing Together!
+
+Take a look at my <a href="https://sheikhasif-ali.github.io/">Portfolio</a>.
+
+📧 Email: contactsheikhasifali@gmail.com
+🔗 <a href="linkedin.com/in/sheikh-asif-ali">LinkedIn</a>
+💻 <a href="github.com/sheikhasif-ali">Github</a>
+
+I’m excited to connect and discuss how I can contribute to your team or project!</p>
 
 ###
 
@@ -20,21 +33,25 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="kotlin logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="kotlin logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
 </div>
 
